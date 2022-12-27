@@ -1,0 +1,30 @@
+if game.PlaceId == 9285238704 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ExternalYawn/RobloxScripts/main/RaceClickerOBF"))()
+
+elseif game.PlaceId == 10476933477 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ExternalYawn/RobloxScripts/main/StrongNinjaSimOBF"))()
+
+elseif game.PlaceId == 9829406335 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ExternalYawn/RobloxScripts/main/JumpHigherEverySecondOBF"))()
+
+elseif game.PlaceId == 8507479511 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ExternalYawn/RobloxScripts/main/HigherJumpEverySecondOBF"))() 
+
+elseif game.PlaceId == 11345542927 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ExternalYawn/RobloxScripts/main/HigherSpeedEverySecondOBF"))() 
+
+elseif game.PlaceId == 11063612131 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ExternalYawn/RobloxScripts/main/EverySecondYouGet1%2BJumpPowerOBF"))() 
+
+elseif game.PlaceId == 11302865934 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ExternalYawn/RobloxScripts/main/EverySecondYouGet1%2BHealthOBF"))() 
+
+elseif game.PlaceId == 11379155384 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ExternalYawn/RobloxScripts/main/1%2BJumpEachSecondOBF"))()
+
+elseif game.PlaceId == 11807355973 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ExternalYawn/RobloxScripts/main/1%2BHealthEverySecondOBF"))()
+
+elseif game.PlaceId == 7047488135 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ExternalYawn/RobloxScripts/main/SpeedRunSimulatorOBF"))()
+end
