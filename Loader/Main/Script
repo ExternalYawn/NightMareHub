@@ -27,4 +27,11 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/ExternalYawn/RobloxSc
 
 elseif game.PlaceId == 7047488135 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ExternalYawn/RobloxScripts/main/SpeedRunSimulatorOBF"))()
+
+elseif game.PlaceId == 11800876530 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ExternalYawn/RobloxScripts/main/1%2BBlocksEverySecond"))()
+
+elseif game.PlaceId == 11800876530 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ExternalYawn/RobloxScripts/main/1%2BBlocksEverySecond"))()
+    
 end
